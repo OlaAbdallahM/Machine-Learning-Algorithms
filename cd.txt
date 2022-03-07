@@ -1,0 +1,65 @@
+using  7.1.1. Boston house prices dataset from scikit learn
+
+
+--> Load the dataset. And investigate it
+--> What are the dimensions of this data?
+--> How many features?
+--> What is the output data type? Qualitative or quantitative?
+--> Does it have nulls?
+--> Does it have duplicate values?
+-->Does it have outliers?
+-->How many classes in the dataset
+-->Correlation between features
+-->Are the classes balanced? Does each
+class have the same number of records/rows?
+--> choose one feature and any target (make sense) 
+--> Linear regression
+-->Linear regression score
+
+--> polynomial regression
+
+--> polynomial regression score
+
+-->choose more than one feature and any target (make sense)
+
+--> Linear regression
+-->Linear regression score
+
+--> polynomial regression
+
+--> polynomial regression score
+
+
+
+
+
+using  Diabetes dataset from scikit learn 
+
+--> Load the dataset. And investigate it
+--> What are the dimensions of this data?
+--> How many features?
+--> What is the output data type? Qualitative or quantitative?
+--> Does it have nulls?
+--> Does it have duplicate values?
+-->Does it have outliers?
+-->How many classes in the dataset
+-->Correlation between features
+-->Are the classes balanced? Does each
+class have the same number of records/rows?
+--> choose one feature and any target (make sense) 
+--> Linear regression
+-->Linear regression score
+
+--> polynomial regression
+
+--> polynomial regression score
+
+-->choose more than one feature and any target (make sense)
+
+--> Linear regression
+-->Linear regression score
+
+--> polynomial regression
+
+--> polynomial regression score
+--> what’s the best model ?
